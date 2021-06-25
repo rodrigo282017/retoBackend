@@ -5,6 +5,7 @@ com/retoback/model/ClientKPI$ClientKPIBuilder.class
 com/retoback/service/impl/ClientServiceImpl.class
 com/retoback/model/ClientKPI.class
 com/retoback/model/ClientDTO$ClientDTOBuilder.class
+com/retoback/SwaggerConfig.class
 com/retoback/RetoBackendApplication.class
 com/retoback/model/Client.class
 com/retoback/service/ClientService.class
