@@ -7,3 +7,9 @@ spring:
     hibernate:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+  server:
+    contextPath: /MyAppName/v1
+  springfox:
+    documentation:
+      swagger.v2.path: /api-docs
+

@@ -1,6 +1,7 @@
 /Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/RetoBackendApplication.java
 /Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/model/Client.java
 /Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/service/ClientService.java
+/Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/model/ClientKPI.java
 /Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/controller/ClientController.java
 /Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/model/ClientDTO.java
 /Users/rodrigotorres/Desktop/retoBack/retoBackend/src/main/java/com/retoback/repository/ClientRepository.java

@@ -1,7 +1,9 @@
 com/retoback/repository/ClientRepository.class
 com/retoback/controller/ClientController.class
 com/retoback/model/ClientDTO.class
+com/retoback/model/ClientKPI$ClientKPIBuilder.class
 com/retoback/service/impl/ClientServiceImpl.class
+com/retoback/model/ClientKPI.class
 com/retoback/model/ClientDTO$ClientDTOBuilder.class
 com/retoback/RetoBackendApplication.class
 com/retoback/model/Client.class
