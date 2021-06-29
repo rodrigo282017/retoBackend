@@ -80,7 +80,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.mypackage.MyClass</mainClass>
+                            <mainClass>com.retoBack.RetoBackendApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
